@@ -29,7 +29,7 @@ const engineeringTeam = [
     name: "Joseph Mballe",
     role: "Developpeur logiciel",
     description: "J'aime transformer des idées complexes en solutions logicielles simples et élégantes, avec un code propre et maintenable.",
-    image: assets.image_hero,
+    image: assets.image_mballe,
   },
   {
     name: "Clovis Finka",
