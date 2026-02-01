@@ -5,37 +5,37 @@ import assets from "../../assets/assets"
 
 const directionTeam = [
   {
-    name: "Elon Musk",
-    role: "CEO",
+    name: "Toya Tankwa Joel Sorel",
+    role: "Developpeur",
     description: "Visionnaire avec 15 ans d'expérience dans la tech. Sophie guide Oritch vers l'innovation constante.",
-    image: assets.image_hero,
+    image: assets.image_toya,
   },
 ]
 
 const engineeringTeam = [
   {
-    name: "Karim Benzema",
-    role: "Lead Developer",
+    name: "Podo Yann Théophile",
+    role: "Developpeur",
+    description: "Passionné par l’algorithmique, les mathématiques et la programmation, je m’intéresse particulièrement aux systèmes d’information et aux solutions logicielles innovantes.",
+    image: assets.image_podo,
+  },
+  {
+    name: "Vera Kouebou",
+    role: "Developpeur",
     description: "Passionné par le code propre et les dernières technologies JS.",
     image: assets.image_hero,
   },
   {
-    name: "Karim Benzema",
-    role: "Lead Developer",
+    name: "Joseph Mballe",
+    role: "Developpeur logiciel",
     description: "Passionné par le code propre et les dernières technologies JS.",
     image: assets.image_hero,
   },
   {
-    name: "Karim Benzema",
-    role: "Lead Developer",
-    description: "Passionné par le code propre et les dernières technologies JS.",
-    image: assets.image_hero,
-  },
-  {
-    name: "Karim Benzema",
-    role: "Lead Developer",
-    description: "Passionné par le code propre et les dernières technologies JS.",
-    image: assets.image_hero,
+    name: "Clovis Finka",
+    role: "Developpeur web fullstack",
+    description: "🥇Je crée des solutions web performantes, responsives, sécurisées pour répondre à vos besoins.",
+    image: assets.image_finka
   },
 ]
 

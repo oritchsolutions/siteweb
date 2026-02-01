@@ -6,19 +6,19 @@ import { Link } from "react-router-dom"
 
 const tabEquipe = [
   {
-    nom: "Bill Gates",
-    role: "CEO",
+    nom: "Toya Tankwa Joel Sorel",
+    role: "Developpeur",
+    photo: assets.image_toya,
+  },
+  {
+    nom: "Vera Kouebou",
+    role: "Developpeur",
     photo: assets.image_hero,
   },
   {
-    nom: "Bill Gates",
-    role: "CEO",
-    photo: assets.image_hero,
-  },
-  {
-    nom: "Bill Gates",
-    role: "CEO",
-    photo: assets.image_hero,
+    nom: "Clovis Finka",
+    role: "Developpeur web fullstack",
+    photo: assets.image_finka,
   },
   
 ]
