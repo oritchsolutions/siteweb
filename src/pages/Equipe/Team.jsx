@@ -7,7 +7,7 @@ const directionTeam = [
   {
     name: "Toya Tankwa Joel Sorel",
     role: "Developpeur",
-    description: "Visionnaire avec 15 ans d'expérience dans la tech. Sophie guide Oritch vers l'innovation constante.",
+    description: "Développeur Web | Création de sites modernes, rapides et adaptés aux besoins des entreprises🔹Passionné par le design, le code propre et l’expérience utilisateur",
     image: assets.image_toya,
   },
 ]
