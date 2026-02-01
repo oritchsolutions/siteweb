@@ -20,7 +20,7 @@ const engineeringTeam = [
     image: assets.image_podo,
   },
   {
-    name: "Vera Kouebou",
+    name: "Vera Estelle Mamchie",
     role: "Developpeur",
     description: "Passionné par le code propre et les dernières technologies JS.",
     image: assets.image_hero,
@@ -28,7 +28,7 @@ const engineeringTeam = [
   {
     name: "Joseph Mballe",
     role: "Developpeur logiciel",
-    description: "Passionné par le code propre et les dernières technologies JS.",
+    description: "J'aime transformer des idées complexes en solutions logicielles simples et élégantes, avec un code propre et maintenable.",
     image: assets.image_hero,
   },
   {
