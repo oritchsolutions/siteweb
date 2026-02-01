@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&display=swap');
+@import "tailwindcss";
+*{
+    font-family: "Inter", sans-serif;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme{
+    --color-primary: #0d9488;
+    --color-primary-dark: #13ecc8;
+    --color-primary-light : #ccfbf1;
+    --color-primary-ultra : #f0fdfa;
+    --color-primary-hover : #0f766e;
+    --color-darkk: #161e1d;
+    --color-background-dark: #111817;
+    --color-grey: #64748b;
+    --color-grey-border: #e2e8f0;
+    --color-dark: #111817;
+    --color-text-grey: #9db9b4;
+    --color-background-secondary-dark: #1c2725;
+    --color-border-dark: #283936;
+    --color-grey-light : #f1f5f9;
+    --color-dark-secondary: #334155;;
+    --color-light: #f1f5f9;
+    --color-background-off:#f8fafc;
+    --color-bluue: #0f1e2f;
+    --color-team : #1a2523;
+    --color-ico: #112e29;
+    --color-ac: #12423a;
+}
+.navbar {
+  @apply lg:hidden fixed top-0 right-0 bg-primary-light
+  w-1/2 h-screen flex flex-col items-center justify-center
+  z-40 gap-10 translate-x-full  transition-transform duration-300 ease-in-out;
+}
+
+.navbar.active {
+  @apply translate-x-0;
+}
