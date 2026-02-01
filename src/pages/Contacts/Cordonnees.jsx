@@ -11,7 +11,7 @@ const Cordonnees = () => {
     setResult("Envoi en cours...");
 
     const formData = new FormData(event.target);
-    formData.append("access_key", "786a2abb-a8c7-451b-b64c-88232d7e1cf6"); // Remplace par ton vrai token
+    formData.append("access_key", "786a2abb-a8c7-451b-b64c-88232d7e1cf6");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
