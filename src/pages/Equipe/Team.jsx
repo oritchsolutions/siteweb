@@ -20,10 +20,10 @@ const engineeringTeam = [
     image: assets.image_podo,
   },
   {
-    name: "Vera Estelle Mamchie",
-    role: "Developpeur",
-    description: "Passionné par le code propre et les dernières technologies JS.",
-    image: assets.image_hero,
+    name: "Véra Estelle Mamchie",
+    role: ".NET Developer & QA Tester",
+    description: "Focused on reliable and high-quality software. Let’s connect !",
+    image: assets.image_vera,
   },
   {
     name: "Joseph Mballe",
