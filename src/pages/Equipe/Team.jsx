@@ -15,7 +15,7 @@ const directionTeam = [
 const engineeringTeam = [
   {
     name: "Podo Yann Théophile",
-    role: "Developpeur",
+    role: "Developpeur logiciel",
     description: "Passionné par l’algorithmique, les mathématiques et la programmation, je m’intéresse particulièrement aux systèmes d’information et aux solutions logicielles innovantes.",
     image: assets.image_podo,
   },
