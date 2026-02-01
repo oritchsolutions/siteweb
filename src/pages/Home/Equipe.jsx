@@ -11,7 +11,7 @@ const tabEquipe = [
     photo: assets.image_toya,
   },
   {
-    nom: "Vera Kouebou",
+    nom: "Vera Estelle Mamchie",
     role: "Developpeur",
     photo: assets.image_hero,
   },
