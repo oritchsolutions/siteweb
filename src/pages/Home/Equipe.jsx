@@ -7,7 +7,7 @@ import { Link } from "react-router-dom"
 const tabEquipe = [
   {
     nom: "Toya Tankwa Joel Sorel",
-    role: "Developpeur web fullstack",
+    role: "Développeur web fullstack",
     photo: assets.image_toya,
   },
   {
@@ -17,7 +17,7 @@ const tabEquipe = [
   },
   {
     nom: "Clovis Finka",
-    role: "Developpeur web fullstack",
+    role: "Développeur web fullstack",
     photo: assets.image_finka,
   },
   

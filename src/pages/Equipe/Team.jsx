@@ -15,7 +15,7 @@ const directionTeam = [
 const engineeringTeam = [
   {
     name: "Podo Yann Théophile",
-    role: "Developpeur logiciel",
+    role: "Développeur logiciel",
     description: "Passionné par l’algorithmique, les mathématiques et la programmation, je m’intéresse particulièrement aux systèmes d’information et aux solutions logicielles innovantes.",
     image: assets.image_podo,
   },
@@ -27,13 +27,13 @@ const engineeringTeam = [
   },
   {
     name: "Joseph Mballe",
-    role: "Developpeur logiciel",
+    role: "Développeur logiciel",
     description: "J'aime transformer des idées complexes en solutions logicielles simples et élégantes, avec un code propre et maintenable.",
     image: assets.image_mballe,
   },
   {
     name: "Clovis Finka",
-    role: "Developpeur web fullstack",
+    role: "Développeur web fullstack",
     description: "🥇Je crée des solutions web performantes, responsives, sécurisées pour répondre à vos besoins.",
     image: assets.image_finka
   },
