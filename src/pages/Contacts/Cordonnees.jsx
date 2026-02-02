@@ -99,11 +99,11 @@ const Cordonnees = () => {
             <form onSubmit={onSubmit}>
               <motion.div className="flex flex-col gap-4 mb-5" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.5 }}>
                 <label className="text-sm font-medium text-anthracite">Nom & Prénom</label>
-                <input type="text" required placeholder="Jean Fotso" name="nom" className="w-full bg-gray-50 dark:bg-[#111817] border border-gray-200 dark:border-[#272f2d] rounded-lg px-4 py-3 text-navy placeholder-gray-400 focus:outline-none focus:border-primary dark:focus:border-primary-dark focus:ring-1 focus:ring-primary transition-all"/>
+                <input type="text" required placeholder="Entrez votre nom et prénom" name="nom" className="w-full bg-gray-50 dark:bg-[#111817] border border-gray-200 dark:border-[#272f2d] rounded-lg px-4 py-3 text-navy placeholder-gray-400 focus:outline-none focus:border-primary dark:focus:border-primary-dark focus:ring-1 focus:ring-primary transition-all"/>
               </motion.div>
               <motion.div className="flex flex-col gap-4 mb-5" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.5 }}>
                 <label className="text-sm font-medium text-anthracite">Email</label>
-                <input type="email" required placeholder="jeanfotso@gmail.com" name="email" className="w-full bg-gray-50 dark:bg-[#111817] border border-gray-200 dark:border-[#272f2d] rounded-lg px-4 py-3 text-navy placeholder-gray-400 focus:outline-none focus:border-primary dark:focus:border-primary-dark focus:ring-1 focus:ring-primary transition-all"/>
+                <input type="email" required placeholder="Entrez votre adresse mail" name="email" className="w-full bg-gray-50 dark:bg-[#111817] border border-gray-200 dark:border-[#272f2d] rounded-lg px-4 py-3 text-navy placeholder-gray-400 focus:outline-none focus:border-primary dark:focus:border-primary-dark focus:ring-1 focus:ring-primary transition-all"/>
               </motion.div>
               <motion.div className="flex flex-col gap-4 mb-5" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.6 }}>
                 <label className="text-sm font-medium text-anthracite">Message</label>
