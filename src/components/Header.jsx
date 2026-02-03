@@ -20,8 +20,7 @@ const Header = ({ theme, setTheme }) => {
     { to: '/', label: 'Accueil' },
     { to: '/services', label: 'Services' },
     { to: '/equipe', label: 'Équipe' },
-    { to: '/realisations', label: 'Réalisations' },
-    { to: '/contactez-nous', label: 'Contacts' }
+    { to: '/realisations', label: 'Réalisations' }
   ];
 
   return (
