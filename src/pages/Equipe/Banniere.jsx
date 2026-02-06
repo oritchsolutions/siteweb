@@ -83,7 +83,7 @@ const Banniere = () => {
                     </div>
                     <motion.div 
                       className='aspect-video w-full bg-cover bg-center' 
-                      style={{ backgroundImage: `url(${assets.equipe})` }}
+                      style={{ backgroundImage: `url(${assets.tech})` }}
                       whileHover={{ scale: 1.05 }}
                       transition={{ duration: 0.4 }}
                     ></motion.div>

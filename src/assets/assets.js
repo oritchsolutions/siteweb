@@ -7,6 +7,7 @@ import image_vera from './IMG-20260201-WA0002.jpg'
 import image_mballe from './mballe.png'
 import services from './services.png'
 import equipe from './equipe.png'
+import tech from './tech.png'
 const assets = {
     logo,
     image_hero,
@@ -16,6 +17,7 @@ const assets = {
     image_finka,
     image_toya,
     image_mballe,
-    image_vera
+    image_vera,
+    tech
 }
 export default assets
