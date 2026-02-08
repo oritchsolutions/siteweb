@@ -45,7 +45,7 @@ const Synergie = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.4 }}
         >
-          Chez Oritch Solution, nous ne sommes pas seulement des collègues, nous sommes une équipe unie par une passion commune pour l'excellence. Notre force réside dans notre diversité : ingénieurs backend chevronnés, designers UX intuitifs et chefs de projet agiles collaborent étroitement pour garantir le succès de chaque ligne de code et de chaque pixel.
+          Chez Oritch Solutions, nous ne sommes pas seulement des collègues, nous sommes une équipe unie par une passion commune pour l'excellence. Notre force réside dans notre diversité : ingénieurs backend chevronnés, designers UX intuitifs et chefs de projet agiles collaborent étroitement pour garantir le succès de chaque ligne de code et de chaque pixel.
         </motion.p>
        </div>
     </section>

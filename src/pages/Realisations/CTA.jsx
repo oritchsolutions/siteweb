@@ -39,7 +39,7 @@ const CTA = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.4 }}
             >
-                Confiez-le à Oritch Solution. Nous transformons vos idées en succès numérique avec rigueur et passion.
+                Confiez-le à Oritch Solutions. Nous transformons vos idées en succès numérique avec rigueur et passion.
             </motion.p>
 
             <motion.div 

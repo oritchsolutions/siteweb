@@ -25,7 +25,7 @@ const Savoirplus = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Oritch Solution se consacre à l'innovation, à la qualité et à l'impact commercial tangible grâce à des technologies de pointe. Nous ne nous contentons pas d'écrire du code, nous résolvons des problèmes.
+              Oritch Solutions se consacre à l'innovation, à la qualité et à l'impact commercial tangible grâce à des technologies de pointe. Nous ne nous contentons pas d'écrire du code, nous résolvons des problèmes.
             </motion.p>
             <Link to="/equipe">
            

@@ -44,7 +44,7 @@ const Header = ({ theme, setTheme }) => {
           >
             <img src={assets.logo} alt="Logo Oritch Solution" className="w-10 sm:w-10" />
             <span className="text-lg font-bold tracking-tight text-dark dark:text-white">
-              Oritch Solution
+              Oritch Solutions
             </span>
           </motion.div>
         </Link>

@@ -41,7 +41,7 @@ const Footer = () => {
                       transition={{ duration: 0.2 }}
                     >
                         <img src={assets.logo} alt="Logo Oritch Solution" className='w-10 sm:w-10' />
-                        <span className='text-lg font-bold text-dark dark:text-white'>Oritch Solution</span>
+                        <span className='text-lg font-bold text-dark dark:text-white'>Oritch Solutions</span>
                     </motion.div>
                     <p className='text-sm text-grey dark:text-text-grey'>
                       Donner aux entreprises les moyens d'agir avec des solutions logicielles évolutives et performantes adaptées à l'ère numérique.
@@ -158,7 +158,7 @@ const Footer = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-                <p className='text-sm text-grey dark:text-text-grey'>© 2026 Oritch Solution. Tous droits réservés.</p>
+                <p className='text-sm text-grey dark:text-text-grey'>© 2026 Oritch Solutions. Tous droits réservés.</p>
             </motion.div>
         </div>
     </footer>

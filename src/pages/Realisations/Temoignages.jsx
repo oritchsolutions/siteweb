@@ -5,7 +5,7 @@ import { Quote } from "lucide-react"
 
 const temoignagesData = [
   {
-    texte: "Oritch Solution a parfaitement compris nos enjeux métiers. Leur approche technique et leur réactivité ont permis de lancer notre plateforme 2 mois avant la date prévue.",
+    texte: "Oritch Solutions a parfaitement compris nos enjeux métiers. Leur approche technique et leur réactivité ont permis de lancer notre plateforme 2 mois avant la date prévue.",
     initiales: "JF",
     nom: "Jean Fotso",
     poste: "CTO, FinTech Services"
