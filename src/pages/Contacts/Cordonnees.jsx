@@ -11,7 +11,7 @@ const Cordonnees = () => {
     setResult("Envoi en cours...");
 
     const formData = new FormData(event.target);
-    formData.append("access_key", "786a2abb-a8c7-451b-b64c-88232d7e1cf6");
+    formData.append("access_key", "866bd351-bd31-4294-9904-18592a2e1dbb");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
