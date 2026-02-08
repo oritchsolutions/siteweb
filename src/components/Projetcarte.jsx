@@ -75,9 +75,9 @@ const Projetcarte = ({ project }) => {
             className="w-full py-2.5 rounded-lg border border-slate-200 dark:border-white/20
             text-navy dark:text-white text-sm font-bold
             hover:bg-primary dark:hover:bg-primary-dark hover:border-primary hover:text-white dark:hover:text-dark
-            transition-all flex items-center justify-center gap-2 cursor-pointer"
+            transition-all flex items-center justify-center gap-2 cursor-not-allowed"
           >
-            Voir le projet
+            Déployé en interne
           </motion.button>
         </div>
       </div>

@@ -7,17 +7,17 @@ import { Link } from "react-router-dom";
 const tabRealisations = [
   {
     categorie: "FinTech",
-    titre: "Tableau de Bord Analytique FinTrack",
+    titre: "Gestion Hospitalière",
     description:
-      "Une plateforme complète de visualisation de données aidant les institutions financières à suivre les tendances du marché en temps réel.",
-    image: assets.image_hero,
+      "Système web centralisé pour la gestion des patients et du personnel médical. Optimiser la gestion des patients, rendez-vous et dossiers médicaux.",
+    image: assets.hopital,
   },
   {
-    categorie: "FinTech",
-    titre: "Tableau de Bord Analytique FinTrack",
+    categorie: "EdTech",
+    titre: "Gestion des étudiants",
     description:
-      "Une plateforme complète de visualisation de données aidant les institutions financières à suivre les tendances du marché en temps réel.",
-    image: assets.image_hero,
+      "Application web permettant l’ajout, la consultation et la gestion des notes par classe.",
+    image: assets.etudiants,
   }
 ]
 
