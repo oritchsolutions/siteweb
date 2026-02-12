@@ -72,7 +72,7 @@ const Cordonnees = () => {
               </motion.div>
               <div>
                 <p className='text-sm font-medium text-grey dark:text-gray-400 mb-1'>Téléphone</p>
-                <p className='text-navy font-bold hover:text-primary dark:hover:text-primary-dark transition-colors'>+237 674 98 32 36</p>
+                <p className='text-navy font-bold hover:text-primary dark:hover:text-primary-dark transition-colors'>+237 659 394 302</p>
               </div>
             </motion.div>
 

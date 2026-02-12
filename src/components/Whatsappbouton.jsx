@@ -6,7 +6,7 @@ import WhatsAppIcon from "../assets/whatsapp-svgrepo-com.svg"
 export default function Whatsappbouton() {
   return (
     <motion.a
-      href="https://wa.me/237674983236?text=Bonjour%2C%20je%20souhaite%20obtenir%20plus%20d'informations%20sur%20vos%20services%20et%20comment%20vous%20pouvez%20m'aider."
+      href="https://wa.me/237659394302?text=Bonjour%2C%20je%20souhaite%20obtenir%20plus%20d'informations%20sur%20vos%20services%20et%20comment%20vous%20pouvez%20m'aider."
       target="_blank"
       rel="noopener noreferrer"
       className="

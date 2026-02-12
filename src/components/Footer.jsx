@@ -20,7 +20,7 @@ const Footer = () => {
   const contactInfo = [
     { icon: MapPin, text: "Douala, Cameroun" },
     { icon: Mail, text: "contact@oritchsolutions.com" },
-    { icon: Phone, text: "+237 674 98 32 36" }
+    { icon: Phone, text: "+237 659 39 43 02" }
   ]
 
   return (
